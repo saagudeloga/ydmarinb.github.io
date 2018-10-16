@@ -1,0 +1,24 @@
+name: "Yubar D. Marín B."
+output_dir: "."
+navbar:
+
+  left:
+    - text: "Yubar Daniel Marín Benjumea"
+      href: index.html
+    - text: "Tutoriales"
+      href: about.html
+    
+      
+  right:
+    - icon:  fa-github fa-lg
+      href: https://github.com/ydmarinb
+    - icon: ion-social-linkedin
+      href: www.linkedin.com/in/ydmarinb
+    
+   
+output:
+  html_document:
+    theme: cosmo
+    highlight: tango
+    
+      

@@ -1,0 +1,58 @@
+
+<style>
+
+
+h1{
+  text-align: center;
+  font-weight: bold;
+
+}
+
+
+.id{
+width: 450px;
+  height: 500px;
+  margin: 10pt auto;
+  padding: 20pt;
+  float: left;
+  }
+</style>
+</head>
+
+
+<h1>¿Quien soy?</h1>
+
+<div id="general">
+
+<div class="id" >
+<img src="foto.jpg"  height="500" width="400" aling = left  >
+</div>
+
+
+
+<div class="id ">
+<p style = "font-family: Indie Flower cursive;"> 
+Soy una personas interesada en la solución de problemas por medio de herramientas como la analítica de datos, programación y la inteligencia artificial.
+</p>
+
+
+
+<h3> Habilidades computacionales</h3>
+
+<p style = "font-family: Indie Flower cursive;"> 
+Presento habilidades en los siguientes lenguajes: Python, R, SQL, CSS, HTML.
+</p>
+
+<h3> Proyectos</h3>
+
+<p style = "font-family: Indie Flower cursive;"> 
+Soy mienbro fundador de el grupo de investigación en nuevas tendencias tecnologicas <strong>rAIz</strong> del cual hacen parte personas de diversas disciplinas.
+</p>
+<img src="logo.png" width="50" height="50" aling = center>
+
+
+</div>
+
+</div>
+
+
